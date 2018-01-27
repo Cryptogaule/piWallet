@@ -1,13 +1,7 @@
-piWallet
+Crypto Gaule Web Wallet
 ========
 
 piWallet is a secure opensource online altcoin wallet that works with practically any altcoin. piWallet uses PHP, mySQL, JavaScript and Bootstrap. 
-
-Setup: https://github.com/johnathanmartin/piWallet/wiki/Installation
-
-Bitcoin Talk: https://bitcointalk.org/index.php?topic=911212
-
-Please be cautious when paying others to install piWallet for you, I'd be willing to install for a negotiable fee. Please send me an email. jmartin@fitbobcat.com
 
 Whats New:
 
